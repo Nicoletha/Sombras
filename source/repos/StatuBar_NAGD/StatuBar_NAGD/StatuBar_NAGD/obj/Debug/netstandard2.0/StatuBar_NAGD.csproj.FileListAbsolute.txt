@@ -1,0 +1,15 @@
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\bin\Debug\netstandard2.0\StatuBar_NAGD.deps.json
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\bin\Debug\netstandard2.0\StatuBar_NAGD.dll
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\bin\Debug\netstandard2.0\ref\StatuBar_NAGD.dll
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\bin\Debug\netstandard2.0\StatuBar_NAGD.pdb
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\StatuBar_NAGD.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\StatuBar_NAGD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\StatuBar_NAGD.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\StatuBar_NAGD.AssemblyInfo.cs
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\StatuBar_NAGD.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\StatuBar_NAGD.dll
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\refint\StatuBar_NAGD.dll
+C:\Users\nicol\source\repos\StatuBar_NAGD\StatuBar_NAGD\StatuBar_NAGD\obj\Debug\netstandard2.0\StatuBar_NAGD.pdb
