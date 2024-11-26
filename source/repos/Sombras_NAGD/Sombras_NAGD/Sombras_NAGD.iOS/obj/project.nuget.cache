@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8PGtYmWiQI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\source\\repos\\Sombras_NAGD\\Sombras_NAGD\\Sombras_NAGD.iOS\\Sombras_NAGD.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\sharpnado.shadows\\1.2.1\\sharpnado.shadows.1.2.1.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

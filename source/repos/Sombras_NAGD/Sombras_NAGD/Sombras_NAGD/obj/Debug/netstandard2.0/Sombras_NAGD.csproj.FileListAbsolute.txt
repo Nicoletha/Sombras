@@ -1,0 +1,16 @@
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\bin\Debug\netstandard2.0\Sombras_NAGD.deps.json
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\bin\Debug\netstandard2.0\Sombras_NAGD.dll
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\bin\Debug\netstandard2.0\ref\Sombras_NAGD.dll
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\bin\Debug\netstandard2.0\Sombras_NAGD.pdb
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\Sombras_NAGD.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\Sombras_NAGD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\Sombra.xaml.g.cs
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\Sombras_NAGD.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\Sombras_NAGD.AssemblyInfo.cs
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\Sombras_NAGD.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\Sombras_NAGD.dll
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\refint\Sombras_NAGD.dll
+C:\Users\nicol\source\repos\Sombras_NAGD\Sombras_NAGD\Sombras_NAGD\obj\Debug\netstandard2.0\Sombras_NAGD.pdb

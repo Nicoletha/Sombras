@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "izD5dt1+CLA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\source\\repos\\Sombras_NAGD\\Sombras_NAGD\\Sombras_NAGD\\Sombras_NAGD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\sharpnado.shadows\\1.2.1\\sharpnado.shadows.1.2.1.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
